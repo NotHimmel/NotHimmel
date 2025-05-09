@@ -1,3 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1878F7&center=true&width=435&lines=%E6%8B%89%E5%90%89%E5%A1%94%E5%B0%BC%E7%9A%84%E9%B9%A6%E9%B9%89%E4%BC%9A%E7%AC%91)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotHimmel/NotHimmel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotHimmel/NotHimmel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NotHimmel/NotHimmel/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotHimmel&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHimmel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
