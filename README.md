@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1878F7&center=true&width=435&lines=%E6%8B%89%E5%90%89%E5%A1%94%E5%B0%BC%E7%9A%84%E9%B9%A6%E9%B9%89%E4%BC%9A%E7%AC%91)](https://git.io/typing-svg)
+### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1878F7&width=435&lines=%E6%8B%89%E5%90%89%E5%A1%94%E5%B0%BC%E7%9A%84%E9%B9%A6%E9%B9%89%E4%BC%9A%E7%AC%91)](https://git.io/typing-svg)
+
+⏳ Year progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 35.14 %
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotHimmel/NotHimmel/output/github-contribution-grid-snake-dark.svg">
@@ -12,3 +16,8 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NotHimmel&theme=minimal)
 
+---
+
+⏰ Updated on Fri, 09 May 2025 06:22:17 GMT
+
+![Progress Bar CI](https://github.com/NotHimmel/NotHimmel/workflows/Progress%20Bar%20CI/badge.svg)
