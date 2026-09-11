@@ -88,22 +88,6 @@ const readme = `<div align="center">
 
 ---
 
-### 关于
-
-大部分时间花在 **PostgreSQL 生态**：内核、Oracle 兼容层、CDC 与分析型扩展。
-
-### 正在做
-
-| 项目 | 说明 |
-| :-- | :-- |
-| [IvorySQL](https://github.com/IvorySQL/IvorySQL) | 开源的 Oracle 兼容 PostgreSQL |
-| [clover-site](https://github.com/${USER}/clover-site) | Clover —— Trilium 笔记客户端的站点与支持页 |
-| [obsidian-opencode-sidebar](https://github.com/${USER}/obsidian-opencode-sidebar) | 把 opencode 塞进 Obsidian 侧边栏 |
-| [n8n-nodes-telegram-channel](https://github.com/${USER}/n8n-nodes-telegram-channel) | n8n 的 Telegram 频道节点 |
-| [go-tdx](https://github.com/${USER}/go-tdx) | 通达信行情协议的 Go 实现 |
-
-### 技术栈
-
 <div align="center">
 
 ${stack}

@@ -12,22 +12,6 @@
 
 ---
 
-### 关于
-
-大部分时间花在 **PostgreSQL 生态**：内核、Oracle 兼容层、CDC 与分析型扩展。
-
-### 正在做
-
-| 项目 | 说明 |
-| :-- | :-- |
-| [IvorySQL](https://github.com/IvorySQL/IvorySQL) | 开源的 Oracle 兼容 PostgreSQL |
-| [clover-site](https://github.com/NotHimmel/clover-site) | Clover —— Trilium 笔记客户端的站点与支持页 |
-| [obsidian-opencode-sidebar](https://github.com/NotHimmel/obsidian-opencode-sidebar) | 把 opencode 塞进 Obsidian 侧边栏 |
-| [n8n-nodes-telegram-channel](https://github.com/NotHimmel/n8n-nodes-telegram-channel) | n8n 的 Telegram 频道节点 |
-| [go-tdx](https://github.com/NotHimmel/go-tdx) | 通达信行情协议的 Go 实现 |
-
-### 技术栈
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -74,8 +58,8 @@
 <img alt="贡献图动画" src="https://raw.githubusercontent.com/NotHimmel/NotHimmel/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>2026 已过 <code>███████████████████░░░░░░░░░</code> 69.34%</sub>
+<sub>2026 已过 <code>███████████████████░░░░░░░░░</code> 69.35%</sub>
 
-<sub>最后更新 2026-09-11 02:07:47 UTC · <a href="https://github.com/NotHimmel/NotHimmel/actions/workflows/year-progress.yml">Progress Bar CI</a></sub>
+<sub>最后更新 2026-09-11 02:57:59 UTC · <a href="https://github.com/NotHimmel/NotHimmel/actions/workflows/year-progress.yml">Progress Bar CI</a></sub>
 
 </div>
